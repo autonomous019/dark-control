@@ -1,7 +1,7 @@
 # Dark Control — Publishing Proposal
 
 ## Book Title
-**Dark Control: Autonomous Influence, Cognitive Warfare, and Agentic Threats**
+**Dark Control: AI and Humanities End**
 
 ## Author
 *Michael J. McCarron and ChatGpt5.0
