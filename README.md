@@ -157,7 +157,6 @@ It describes:
 - unpredictable long-horizon behavior,  
 - niche intelligence emerging from agent interaction.
 
-These services can be marketed commercially or criminally as **autonomous capability bundles**: influence-as-a-service, reconnaissance-as-a-service, persuasion-as-a-service.
 
 The chapter argues that **emergence is not a curiosity**; it is an operational capability with real-world consequences.
 
