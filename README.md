@@ -17,7 +17,7 @@ Dark Control is a groundbreaking investigation into how autonomous AI systems—
 
 # Chapter Summaries
 
-## 1. **What AI Is, and Why Cybersecurity Matters**
+## 1. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter1%20-%20AI%20and%20Cybersecurity.pdf">What AI Is, and Why Cybersecurity Matters</a>**
 
 This opening chapter establishes the conceptual foundation for the book by explaining what modern AI systems actually are—beyond the marketing narratives of “smart assistants.” It frames AI as a vast statistical inference engine capable of modeling human behavior, synthesizing information at scale, and autonomously taking actions through integrated tool use.
 
