@@ -25,22 +25,7 @@ The chapter connects AI’s extraordinary predictive and generative capabilities
 
 ---
 
-## 2. **Dark Brains: Criminal Exploitation of Unfettered AI Models**
-
-This chapter exposes the growing underground ecosystems where criminals exploit unregulated, unguardrailed large language models (“Dark LLMs”).  
-It outlines how cybercriminals modify open-source models to:
-
-- remove safety constraints,  
-- enable autonomous fraud generation,  
-- automate phishing, extortion, and social engineering,  
-- build synthetic identities for financial crime, and  
-- run scalable influence campaigns without human labor.
-
-The chapter includes analysis of “LLM-as-a-service” offerings on dark web markets, as well as the rise of **criminal agent platforms** capable of persistent operations. The tone is investigative, charting how these illicit AI systems evolve faster than regulators, and how they lower the barrier to entry for sophisticated cybercrime.
-
----
-
-## 3. **Models and Agents: From Sandia to the Present**
+## 2. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter2%20-%20models%20and%20agents.pdf"">Models and Agents: From Sandia to the Present**
 
 This chapter traces the intellectual lineage of agentic AI back to early research at Sandia National Laboratories and other defense-oriented research groups.  
 It situates the foundations of modern multi-agent systems in research on:
@@ -55,6 +40,22 @@ The chapter draws particularly on **Backus, Glass, Verzi, Bier, Glickman**, and 
 The narrative shows how these early theoretical constructs unexpectedly reappear in modern AI labs in the form of supervisory agents, planning modules, memory systems, and emergent coordination behaviors.
 
 ---
+
+## 3. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter3%20-%20dark%20brains.pdf">Dark Brains: Criminal Exploitation of Unfettered AI Models</a>**
+
+This chapter exposes the growing underground ecosystems where criminals exploit unregulated, unguardrailed large language models (“Dark LLMs”).  
+It outlines how cybercriminals modify open-source models to:
+
+- remove safety constraints,  
+- enable autonomous fraud generation,  
+- automate phishing, extortion, and social engineering,  
+- build synthetic identities for financial crime, and  
+- run scalable influence campaigns without human labor.
+
+The chapter includes analysis of “LLM-as-a-service” offerings on dark web markets, as well as the rise of **criminal agent platforms** capable of persistent operations. The tone is investigative, charting how these illicit AI systems evolve faster than regulators, and how they lower the barrier to entry for sophisticated cybercrime.
+
+---
+
 
 ## 4. **From Cognitive Cybernetics to Agentic Threat Models — The Backus Lineage in Contemporary AI Risk**
 
