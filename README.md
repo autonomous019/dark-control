@@ -25,7 +25,7 @@ The chapter connects AI’s extraordinary predictive and generative capabilities
 
 ---
 
-## 2. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter2%20-%20models%20and%20agents.pdf"">Models and Agents: From Sandia to the Present**
+## 2. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter2%20-%20models%20and%20agents.pdf">Models and Agents: From Sandia to the Present**
 
 This chapter traces the intellectual lineage of agentic AI back to early research at Sandia National Laboratories and other defense-oriented research groups.  
 It situates the foundations of modern multi-agent systems in research on:
