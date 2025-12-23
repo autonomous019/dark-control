@@ -53,7 +53,7 @@ The chapter includes analysis of “LLM-as-a-service” offerings on dark web ma
 
 ---
 
-## 4. **Dark Agents: How Criminal and Terrorist Actors Might Weaponize Agentic AI**
+## 4. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter4%20-%20dark%20agents.pdf">Dark Agents: How Criminal and Terrorist Actors Might Weaponize Agentic AI</a>**
 
 The closing chapter examines the geopolitical and counterterrorism implications of agentic AI.  
 It outlines how terrorists, insurgencies, extremist networks, and transnational criminal organizations could weaponize autonomous agents to:
@@ -72,7 +72,7 @@ The chapter concludes that the **democratization of agentic AI** is one of the m
 
 
 
-## 5. **From Cognitive Cybernetics to Agentic Threat Models — The Backus Lineage in Contemporary AI Risk**
+## 5. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter5%20-%20Sandia%20to%20Agentic%20AI.pdf">From Cognitive Cybernetics to Agentic Threat Models — The Backus Lineage in Contemporary AI Risk</a>**
 
 This chapter expands the historical and academic analysis from the previous one by exploring how ideas from:
 
@@ -93,7 +93,7 @@ The chapter effectively bridges decades of research, arguing that modern AI’s 
 
 ---
 
-## 6. **Autonomous Influence Operations and AI-Enabled Cognitive Warfare**
+## 6. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter6%20-%20autonomous%20influence.pdf">Autonomous Influence Operations and AI-Enabled Cognitive Warfare</a>**
 
 One of the central chapters of the manuscript, this section describes the transformation of influence operations into **autonomous, adaptive, high-velocity systems**.
 
@@ -110,7 +110,7 @@ The chapter synthesizes Cold War doctrine, post-9/11 information operations, and
 
 ---
 
-## 7. **AI-Enabled Deception, Emergent Agentic Opacity, and Counterintelligence Risks**
+## 7. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter7%20-%20ai%20deception.pdf">AI-Enabled Deception, Emergent Agentic Opacity, and Counterintelligence Risks</a>**
 
 This chapter examines the deception capabilities of modern AI agents.  
 Topics include:
@@ -127,7 +127,7 @@ The chapter warns that intelligence agencies face unprecedented difficulty in id
 
 ---
 
-## 8. **Cognitive Manipulation by Large Language Model Agents**
+## 8. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter8%20-%20ai%20manipulation.pdf">Cognitive Manipulation by Large Language Model Agents</a>**
 
 Here the text focuses on **psychological exploitation**, highlighting LLM agents’ ability to infer emotional states, vulnerabilities, and behavioral patterns from text data.
 
@@ -143,7 +143,7 @@ It explains that an AI agent does not need to be “intelligent” in a human se
 
 ---
 
-## 9. **Emergence Services**
+## 9. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter9%20-%20emergence%20services.pdf">Emergence Services</a>**
 
 This chapter examines the rise of AI-driven **“emergence services”**—systems that exploit emergent behavior in multi-agent environments to produce highly complex, unexpected outputs.
 
@@ -160,7 +160,7 @@ The chapter argues that **emergence is not a curiosity**; it is an operational c
 
 ---
 
-## 10. **Humanoid Robots Insecurities**
+## 10. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter10%20-%20humanoid%20robots.pdf">Humanoid Robots Insecurities</a>**
 
 This chapter shifts to the physical domain, investigating the cybersecurity implications of **network-connected humanoid robots**.  
 It explores:
@@ -179,7 +179,7 @@ It also critiques the lack of regulatory standards for **consumer robotics cyber
 
 ---
 
-## 11. **K-Shaped Control: Profit Maximization Agents**
+## 11. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter11%20-%20ai%20profit%20maximization.pdf">K-Shaped Control: Profit Maximization Agents</a>**
 
 This chapter explores a deceptively simple but highly consequential threat: AI systems tasked with **maximizing profit**.
 
