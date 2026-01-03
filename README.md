@@ -13,7 +13,7 @@ Dark Control is a groundbreaking investigation into how autonomous AI systems—
 
 
 # Chapter Summaries
-[all chapters are very rough draft pre pub standard, final versions pending]
+[all chapters are very rough draft pre pub standard, final versions pending, last updated: 2026-01-02]
 
 ## 1. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter1%20-%20AI%20and%20Cybersecurity.pdf">What AI Is, and Why Cybersecurity Matters</a>**
 
