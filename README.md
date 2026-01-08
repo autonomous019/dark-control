@@ -1,4 +1,4 @@
-# Dark Control: AI and Humanities End
+# Dark Control: AI and Humanity's End
 
 ## Author
 *Michael J. McCarron and ChatGpt5.2
