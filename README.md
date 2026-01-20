@@ -201,6 +201,16 @@ The chapter demonstrates how purely economic optimization can become **indisting
 ---
 
 
+## 12. **<a href="https://github.com/autonomous019/dark-control/blob/main/chapter%2012%20-%20Agents%20and%20Brain%20Computer%20Interface.pdf">Agents and Brain Computer Interfaces: Security of the Mind</a>**
+
+A look at the emerging field of direct manipulation of the brain by Artificial Intelligence using brain computer interfaces, a look at Lockheed-Martin work before the contemporary era and L-M work with using the Aharanov-Bohm Effect to read neural signals via a remote non-invasive method. 
+
+
+
+
+---
+
+
 ## Market Need
 AI is rapidly shifting from a passive tool to an autonomous actor capable of persuasion, deception, and influence at unprecedented scale. Governments, corporations, and civilians lack the frameworks necessary to defend against autonomous cognitive threats. Dark Control meets the rising demand for accessible, investigative nonfiction that explains these dynamics without hype or oversimplification.
 
