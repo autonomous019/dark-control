@@ -3,6 +3,9 @@
 ## Author
 *Michael J. McCarron and ChatGpt5.2
 
+full book rouigh-draft pre-publication: <a href="https://drive.proton.me/urls/XWAR5XBS6M#pq9XBS5jdCX3">Full Book Pdf [pre-pub]</a>
+
+
 ---
 
 ## Overview
