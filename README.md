@@ -20,7 +20,7 @@ Dark Control is a groundbreaking investigation into how autonomous AI systems—
 
 
 
-# Chapter Summaries
+# Parts 1-8 Summaries
 [all chapters are very rough draft pre pub standard, final versions pending, last updated: 2026-01-02]
 
 
