@@ -1,5 +1,5 @@
 
-<img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true">
+<img src="https://github.com/autonomous019/dark-control/blob/main/battlespaceofmindcover.png?raw=true">
 
 # Dark Control: AI and Humanity's End
 
