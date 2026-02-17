@@ -3,7 +3,7 @@
 ## Author
 *Michael J. McCarron and ChatGpt5.2
 
-full book rouigh-draft pre-publication: <a href="https://drive.proton.me/urls/BWFFE35A3M#mKq8WUCFxBTW">Full Book Pdf [pre-pub]</a>
+full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWFFE35A3M#mKq8WUCFxBTW">Full Book Pdf [pre-pub]</a>
 
 this work is under contract with Trine Day Publishing. 
 
@@ -21,7 +21,7 @@ Dark Control is a groundbreaking investigation into how autonomous AI systems—
 
 
 # Parts 1-8 Summaries
-[all chapters are very rough draft pre pub standard, final versions pending, last updated: 2026-01-02]
+[all chapters are rough draft pre pub standard, final versions pending, last updated: 2026-02-16]
 
 
 
