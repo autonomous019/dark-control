@@ -7,6 +7,10 @@ full book rouigh-draft pre-publication: <a href="https://drive.proton.me/urls/BW
 
 this work is under contract with Trine Day Publishing. 
 
+Video Explainers Playlist: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDHXoZYwScRiSZMSTTQ6Dnk">https://www.youtube.com/playlist?list=PLnRK_n3FKKrDHXoZYwScRiSZMSTTQ6Dnk</a>
+
+Authors Presentation for each part: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrC4Ty4TW9Usf78rDYIqxf5g">https://www.youtube.com/playlist?list=PLnRK_n3FKKrC4Ty4TW9Usf78rDYIqxf5g</a>
+
 ---
 
 ## Overview
