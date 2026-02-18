@@ -10,7 +10,9 @@ full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWF
 
 this work is under contract with Trine Day Publishing. 
 
-<table><tr>Summarizations<td></td><td>Author Presentation</td></tr>
+
+## Videos about the Book
+<table><tr><td>Summarizations</td><td>Author Presentation</td></tr>
  
  
  <tr>
