@@ -10,11 +10,21 @@ full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWF
 
 this work is under contract with Trine Day Publishing. 
 
-## Video Explainers Playlist: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDHXoZYwScRiSZMSTTQ6Dnk"><img src="https://github.com/autonomous019/dark-control/blob/main/explainer.png?raw=true" width="400"></a>
+<table><tr>Summarizations<td></td><td>Author Presentation</td></tr>
+ 
+ 
+ <tr>
+  <td>
+  <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDHXoZYwScRiSZMSTTQ6Dnk"><img src="https://github.com/autonomous019/dark-control/blob/main/explainer.png?raw=true" width="360"></a>
+ </td>
 
+<td>
+<a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrC4Ty4TW9Usf78rDYIqxf5g"><img src="https://github.com/autonomous019/dark-control/blob/main/narrative.png?raw=true" width="360"></a>
 
+</td>
+</tr>
+</table>
 
-## Authors Presentation for each part: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrC4Ty4TW9Usf78rDYIqxf5g"><img src="https://github.com/autonomous019/dark-control/blob/main/narrative.png?raw=true" width="400"></a>
 
 ---
 
