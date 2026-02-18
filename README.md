@@ -11,6 +11,8 @@ full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWF
 this work is under contract with Trine Day Publishing. 
 
 
+also see <a href="https://www.trineday.com/products/battle-space-of-mind-ai-and-cybernetics-in-information-warfare">Battlespace of Mind, the first book in this series</a>
+
 ## Videos about the Book
 <table><tr><td>Summarizations</td><td>Author Presentation</td></tr>
  
