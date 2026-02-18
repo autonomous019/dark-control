@@ -1,10 +1,10 @@
 
-<img src="https://github.com/autonomous019/dark-control/blob/main/bookcover1.png?raw=true">
+<img src="https://github.com/autonomous019/dark-control/blob/main/darkcontrol_qr.png?raw=true">
 
 # Dark Control: AI and Humanity's End
 
 ## Author
-*Michael J. McCarron and ChatGpt5.2
+*Michael J. McCarron
 
 full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWFFE35A3M#mKq8WUCFxBTW">Full Book Pdf [pre-pub]</a>
 
