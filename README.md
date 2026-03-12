@@ -13,6 +13,14 @@ this work is under contract with Trine Day Publishing.
 
 also see <a href="https://www.trineday.com/products/battle-space-of-mind-ai-and-cybernetics-in-information-warfare">Battlespace of Mind, the first book in this series</a>
 
+## Dark Control Update Podcast
+Don't miss the weekly Podcast for updates on AI and Cybersecurity at <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrAsquySOmOQ3oaWHD5VGSNS">https://www.youtube.com/playlist?list=PLnRK_n3FKKrAsquySOmOQ3oaWHD5VGSNS</a>
+
+
+## Support this work
+If you are interested in supporting my writing and research, support me on Patreon: <a href="https://www.patreon.com/c/Battlespaceofmind">@Battlespaceofmind</a>
+
+
 ## Videos about the Book
 <table><tr><td>Summarizations</td><td>Author Presentation</td></tr>
  
