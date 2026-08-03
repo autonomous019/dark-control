@@ -6,7 +6,7 @@
 ## Author
 *Michael J. McCarron
 
-full book rough-draft pre-publication: <a href="https://drive.proton.me/urls/BWFFE35A3M#mKq8WUCFxBTW">Full Book Pdf [pre-pub]</a>
+
 
 this work is under contract with Trine Day Publishing. 
 
