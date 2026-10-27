@@ -1,7 +1,7 @@
 
-<img src="https://github.com/autonomous019/dark-control/blob/main/darkcontrol_qr.png?raw=true">
+<a href="https://drive.proton.me/urls/56WPDGMY2R#awjV8yaR24sv"><img src="https://github.com/autonomous019/dark-control/blob/main/darkcontrol_qr.png?raw=true"></a>
 
-# Dark Control: AI and Humanity's End
+# <a href="https://drive.proton.me/urls/56WPDGMY2R#awjV8yaR24sv">Dark Control: AI and Humanity's End</a>
 
 ## Author
 *Michael J. McCarron
