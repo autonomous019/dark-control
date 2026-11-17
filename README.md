@@ -1,5 +1,5 @@
 
-<a href="https://drive.proton.me/urls/56WPDGMY2R#awjV8yaR24sv"><img src="https://github.com/autonomous019/dark-control/blob/main/darkcontrol_qr.png?raw=true"></a>
+<a href="https://github.com/autonomous019/dark-control/blob/main/dark%20control%20prepub1.pdf"><img src="https://github.com/autonomous019/dark-control/blob/main/darkcontrol_qr.png?raw=true"></a>
 
 # <a href="https://github.com/autonomous019/dark-control/blob/main/dark%20control%20prepub1.pdf">Dark Control: AI and Humanity's End</a>
 
